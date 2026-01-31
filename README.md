@@ -8,9 +8,30 @@
 <div align="center">
 
 <!-- PROFESSIONAL HEADER -->
-<p align="center">
-  <img src="assets/banner.png" alt="Anas Akram Banner" width="100%" />
-</p>
+<div align="center" style="position: relative; width: 100%;">
+
+  <img src="assets/banner.png" alt="Banner" style="width:100%; height:300px; object-fit:cover; border-radius:12px;">
+
+  <div style="
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    text-shadow: 0px 0px 12px rgba(0,0,0,0.8);
+    white-space: nowrap;
+  ">
+    ANAS AKRAM <br/>
+    <span style="font-size:22px; font-weight:500;">
+      APPLIED AI ENGINEER & CV SPECIALIST
+    </span>
+  </div>
+
+</div>
+
 
 
 <br/>
