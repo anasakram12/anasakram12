@@ -7,24 +7,35 @@
 
 <div align="center">
 
-<!-- PROFESSIONAL HEADER WITH OVERLAY TEXT -->
+<!-- PROFESSIONAL HEADER -->
+<!-- CUSTOM HEADER WITH BACKGROUND IMAGE -->
 
-<div style="position: relative; text-align: center; color: white;">
+<div style="position: relative; width:100%; text-align:center;">
 
-  <img src="assets/banner.png" width="100%" alt="Header Banner" />
+  <!-- Background Image -->
+  <img src="assets/banner.png" alt="Header" width="100%"/>
 
-  <div style="position: absolute;
-              top: 50%;
-              left: 50%;
-              transform: translate(-50%, -50%);
-              text-shadow: 0 0 15px rgba(0,0,0,0.8);">
+  <!-- Overlay Text -->
+  <div style="
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white;
+      text-align: center;
+      text-shadow: 0 0 15px rgba(0,0,0,0.8);
+  ">
 
-    <h1>ANAS AKRAM</h1>
-    <p>APPLIED AI ENGINEER & COMPUTER VISION SPECIALIST</p>
+    <h1 style="font-size:90px; margin:0;">
+      ANAS AKRAM
+    </h1>
+
+    <p style="font-size:22px; margin-top:10px; letter-spacing:2px;">
+      APPLIED AI ENGINEER | COMPUTER VISION SPECIALIST
+    </p>
 
   </div>
 </div>
-
 
 
 <br/>
