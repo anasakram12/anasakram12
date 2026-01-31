@@ -8,10 +8,10 @@
 <div align="center">
 
 <!-- PROFESSIONAL HEADER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=300&section=header&text=ANAS%20AKRAM&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=APPLIED%20AI%20ENGINEER%20%7C%20COMPUTER%20VISION%20SPECIALIST&descAlignY=54&descSize=22&descAlign=50">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=300&section=header&text=ANAS%20AKRAM&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=APPLIED%20AI%20ENGINEER%20%7C%20COMPUTER%20VISION%20SPECIALIST&descAlignY=54&descSize=22&descAlign=50" alt="Header" width="100%"/>
-</picture>
+<p align="center">
+  <img src="assets/banner.png" alt="Anas Akram Banner" width="100%" />
+</p>
+
 
 <br/>
 
