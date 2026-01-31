@@ -16,14 +16,19 @@
   <img src="assets/banner.png" alt="Header" width="100%"/>
 
   <!-- Overlay Text -->
+<div align="center" style="position: relative; width:100%;">
+
+  <img src="assets/banner.png" width="100%" alt="Banner"/>
+
   <div style="
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      color: white;
-      text-align: center;
-      text-shadow: 0 0 15px rgba(0,0,0,0.8);
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    color:white;
+    text-align:center;
+    width:100%;
+    pointer-events:none;
   ">
 
     <h1 style="font-size:90px; margin:0;">
