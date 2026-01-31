@@ -8,7 +8,7 @@
 <div align="center">
 
 <picture>
-  <img src="assets/banner.png" alt="Header" width="100%">
+  <img src="assets/banner_img.png" alt="Header" width="100%">
 </picture>
 
 
