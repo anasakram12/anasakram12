@@ -1029,9 +1029,7 @@ Location:
 <a href="https://anasakram.com">
   <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/>
 </a>
-<a href="mailto:anasakram1245@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+
 
 <br/><br/>
 
