@@ -13,23 +13,18 @@
 
   <img src="assets/banner.png" width="100%" alt="Header Banner" />
 
-  <div style="
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-family: Arial, Helvetica, sans-serif;
-    text-shadow: 0 0 15px rgba(0,0,0,0.8);
-  ">
+  <div style="position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              text-shadow: 0 0 15px rgba(0,0,0,0.8);">
 
-    <h1 style="margin:0; font-size:64px;">ANAS AKRAM</h1>
-
-    <p style="margin:8px 0 0; font-size:22px; letter-spacing:2px;">
-      APPLIED AI ENGINEER & COMPUTER VISION SPECIALIST
-    </p>
+    <h1>ANAS AKRAM</h1>
+    <p>APPLIED AI ENGINEER & COMPUTER VISION SPECIALIST</p>
 
   </div>
 </div>
+
 
 
 <br/>
