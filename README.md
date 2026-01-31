@@ -1,7 +1,7 @@
 <!-- 
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                  ANAS AKRAM - AI VISION ENGINEER                             ║
-║                  High-Performance Computer Vision Systems                    ║
+║              ANAS AKRAM - APPLIED AI ENGINEER & CV SPECIALIST                ║
+║                     Professional Technical Portfolio                         ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -9,77 +9,92 @@
 
 <!-- PROFESSIONAL HEADER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=300&section=header&text=ANAS%20AKRAM&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Vision%20Engineer%20%7C%20Computer%20Vision%20Specialist&descAlignY=51&descSize=18&descAlign=50">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=300&section=header&text=ANAS%20AKRAM&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Vision%20Engineer%20%7C%20Computer%20Vision%20Specialist&descAlignY=51&descSize=18&descAlign=50" alt="Header" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=300&section=header&text=ANAS%20AKRAM&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=APPLIED%20AI%20ENGINEER%20%7C%20COMPUTER%20VISION%20SPECIALIST&descAlignY=54&descSize=22&descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=300&section=header&text=ANAS%20AKRAM&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=APPLIED%20AI%20ENGINEER%20%7C%20COMPUTER%20VISION%20SPECIALIST&descAlignY=54&descSize=22&descAlign=50" alt="Header" width="100%"/>
 </picture>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F5FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=Production-Grade+Computer+Vision+Systems;Face+Recognition+%E2%86%92+250%2C000%2B+Identities+%7C+%3C50ms+Latency;YOLO+Detection+%7C+TensorRT+Optimization+%7C+CUDA+Acceleration;Edge+AI+Deployment+%7C+Jetson+Orin+NX+%7C+Multi-GPU+Infrastructure;High-Performance+APIs+%7C+100%2B+Requests%2FSec+%7C+Distributed+Systems" alt="Typing SVG" />
 
 <br/>
 
-<table align="center">
+<!-- PROFESSIONAL TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F5FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=Production-Grade+Computer+Vision+Systems;Face+Recognition+%E2%86%92+250%2C000%2B+Identities+%7C+%3C50ms+Latency;YOLO+Detection+%7C+TensorRT+Optimization+%7C+CUDA+Acceleration;Edge+AI+%7C+Jetson+Orin+NX+%7C+Multi-GPU+Infrastructure;High-Performance+APIs+%7C+100%2B+Requests%2FSec+%7C+Distributed+Systems" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- PROFESSIONAL STATUS PANEL -->
+<table>
 <tr>
 <td align="center" width="25%">
   
 ```yaml
-STATUS: ACTIVE
+ROLE: Applied AI Engineer
 FOCUS: Computer Vision
-SPECIALIZATION: Face Recognition
-DEPLOYMENT: Production Scale
-```
-  
-</td>
-<td align="center" width="25%">
-  
-```yaml
 EXPERIENCE: 3+ Years
-DOMAIN: Casino AI Systems
-ARCHITECTURE: Distributed
-PERFORMANCE: <50ms Latency
+LOCATION: Colombo, Sri Lanka
 ```
   
 </td>
 <td align="center" width="25%">
   
 ```yaml
-PROJECTS: 15+
-IDENTITIES: 250,000+
-THROUGHPUT: 100+ Req/Sec
-UPTIME: 99.9%
+SPECIALIZATION: Face Recognition
+SCALE: 250,000+ Identities
+LATENCY: <50ms Real-Time
+ACCURACY: 99.7% Recognition
 ```
   
 </td>
 <td align="center" width="25%">
   
 ```yaml
-EDUCATION: First-Class (80%)
-DEGREE: BSc AI, Coventry UK
-STACK: Full-Stack AI Engineer
-LOCATION: Sri Lanka
+DEPLOYMENT: Production-Grade
+GPU: TensorRT Optimized
+EDGE: Jetson Orin NX
+UPTIME: 99.9% Availability
+```
+  
+</td>
+<td align="center" width="25%">
+  
+```yaml
+API: 100+ Requests/Sec
+DATABASES: PostgreSQL, Redis
+FRAMEWORK: Flask, FastAPI
+MODE: 24/7 Operations
 ```
   
 </td>
 </tr>
 </table>
 
-<a href="https://linkedin.com/in/anasakram"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/></a>
-<a href="https://github.com/anasakram"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/></a>
-<a href="https://anasakram.com"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=000000" alt="Portfolio"/></a>
-<a href="mailto:anasakram1245@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Contact"/></a>
+<br/>
+
+<!-- PROFESSIONAL LINKS -->
+<a href="https://linkedin.com/in/anasakram">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/anasakram">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://anasakram.com">
+  <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/>
+</a>
+<a href="mailto:anasakram1245@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-</div>
-
 <br/>
 
-## <div align="center">TECHNOLOGY STACK</div>
+</div>
+
+## <div align="center">TECHNICAL STACK</div>
 
 <div align="center">
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> Artificial Intelligence & Deep Learning
+### ARTIFICIAL INTELLIGENCE & DEEP LEARNING
 
 <table>
 <tr>
@@ -114,11 +129,11 @@ LOCATION: Sri Lanka
 </tr>
 </table>
 
-**Specialized Frameworks**: TensorRT • ONNX • YOLO (v5/v8/v11) • InsightFace • Stable Diffusion • Hugging Face Transformers • Diffusers • IP-Adapter
+**Advanced**: TensorRT • ONNX • YOLO (v5/v8/v11) • InsightFace • Stable Diffusion • Hugging Face Transformers
 
----
+<br/>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" width="20" height="20"/> Hardware & Edge AI Platforms
+### HARDWARE & EDGE AI PLATFORMS
 
 <table>
 <tr>
@@ -141,11 +156,11 @@ LOCATION: Sri Lanka
 </tr>
 </table>
 
-**Edge Infrastructure**: NVIDIA Jetson Orin NX • Raspberry Pi 5 • CUDA Servers • L4T/JetPack • Multi-GPU Distributed Inference • Hardware Acceleration
+**Platforms**: NVIDIA Jetson Orin NX • Raspberry Pi 5 • CUDA Servers • L4T/JetPack • Multi-GPU Infrastructure
 
----
+<br/>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20" height="20"/> Backend & API Development
+### BACKEND & API DEVELOPMENT
 
 <table>
 <tr>
@@ -180,11 +195,11 @@ LOCATION: Sri Lanka
 </tr>
 </table>
 
-**Architecture**: RESTful APIs • WebSocket Real-Time Communication • Redis Pub/Sub • Database Optimization • Distributed System Design • High-Throughput Processing
+**Architecture**: RESTful APIs • WebSocket Real-Time • Redis Pub/Sub • Database Optimization • Distributed Systems
 
----
+<br/>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> Frontend & Web Development
+### FRONTEND & WEB DEVELOPMENT
 
 <table>
 <tr>
@@ -219,9 +234,9 @@ LOCATION: Sri Lanka
 </tr>
 </table>
 
----
+<br/>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20"/> DevOps & Infrastructure
+### DEVOPS & INFRASTRUCTURE
 
 <table>
 <tr>
@@ -256,9 +271,9 @@ LOCATION: Sri Lanka
 </tr>
 </table>
 
----
+<br/>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> AI Automation & Integration
+### AI AUTOMATION & INTEGRATION
 
 <table>
 <tr>
@@ -278,20 +293,14 @@ LOCATION: Sri Lanka
 <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" width="48" height="48" alt="Twilio" />
 <br>Twilio
 </td>
-<td align="center" width="96">
-<img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="48" height="48" alt="GitHub" />
-<br>Deepgram
-</td>
-<td align="center" width="96">
-<img src="https://pbs.twimg.com/profile_images/1598311046052962304/bLmzoB4c_400x400.jpg" width="48" height="48" alt="ElevenLabs" />
-<br>ElevenLabs
-</td>
 </tr>
 </table>
 
----
+**Tools**: Deepgram (STT) • ElevenLabs (TTS) • LangChain • Vector Databases
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> Programming Languages
+<br/>
+
+### PROGRAMMING LANGUAGES
 
 <table>
 <tr>
@@ -322,91 +331,13 @@ LOCATION: Sri Lanka
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
 <br/>
-
-## <div align="center">PROFESSIONAL PROFILE</div>
-
-<div align="center">
-
-```python
-class AIVisionEngineer:
-    """
-    Senior Computer Vision Engineer specializing in production-scale
-    real-time AI systems for enterprise casino operations.
-    """
-    
-    def __init__(self):
-        self.identity = {
-            "name": "Anas Akram",
-            "title": "AI Vision Engineer",
-            "specialization": "Computer Vision & Real-Time Systems",
-            "location": "Colombo, Sri Lanka",
-            "experience": "3+ Years Production AI",
-            "education": "BSc (Hons) Computer Science with AI - First-Class (80%)",
-            "university": "Coventry University, United Kingdom"
-        }
-        
-    def core_expertise(self) -> dict:
-        return {
-            "Computer Vision": [
-                "Face Recognition (250K+ identities, <50ms latency)",
-                "YOLO-based Object Detection & Tracking",
-                "Real-Time Video Analytics (30+ FPS multi-stream)",
-                "Chip/Card Detection & Classification Systems",
-                "Image Segmentation & Instance Recognition"
-            ],
-            
-            "AI Optimization": [
-                "TensorRT GPU Acceleration (5x performance boost)",
-                "ONNX Model Optimization & Deployment",
-                "Multi-GPU Distributed Inference Architectures",
-                "Model Quantization & Pruning Techniques",
-                "CUDA Kernel Optimization"
-            ],
-            
-            "Edge AI Deployment": [
-                "NVIDIA Jetson Orin NX (L4T/JetPack)",
-                "Raspberry Pi 5 Production Deployment",
-                "Real-Time Inference Pipeline Design",
-                "Hardware-Accelerated Preprocessing",
-                "Power-Efficient Embedded Systems"
-            ],
-            
-            "Backend Architecture": [
-                "High-Performance APIs (Flask/FastAPI - 100+ req/sec)",
-                "WebSocket Real-Time Communication",
-                "Redis In-Memory Data Synchronization",
-                "PostgreSQL/ClickHouse Analytics Databases",
-                "Distributed System Design & Orchestration"
-            ],
-            
-            "AI Automation": [
-                "n8n Workflow Automation & Integration",
-                "OpenAI API Integration & Fine-Tuning",
-                "LLM Deployment (Hugging Face Infrastructure)",
-                "Voice AI (Deepgram STT + ElevenLabs TTS)",
-                "Generative AI Pipelines (Stable Diffusion)"
-            ]
-        }
-    
-    def production_metrics(self) -> dict:
-        return {
-            "Face Recognition": "250,000+ identities | <50ms latency | 99.7% accuracy",
-            "API Performance": "100+ requests/sec | 99.9% uptime | 24/7 operation",
-            "Edge Deployment": "Jetson Orin NX | 30+ FPS | <30ms inference",
-            "System Architecture": "Multi-GPU | Distributed | Redis Sync | PostgreSQL"
-        }
-```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-</div>
-
 <br/>
+
+</div>
 
 ## <div align="center">PROFESSIONAL EXPERIENCE</div>
 
@@ -416,79 +347,165 @@ class AIVisionEngineer:
 <tr>
 <td width="50%">
 
-### AI Engineer — Onimta IT, Colombo
-`January 2024 – Present`
+### AI ENGINEER — Onimta IT
+**Colombo, Sri Lanka** | Jan 2024 – Present
 
-**Mission-Critical Casino AI Systems**
+**Casino-Scale Computer Vision Systems**
 
 **Face Recognition Engine**
 - Architected large-scale system: 250,000+ identities
 - Real-time inference: <50ms latency
-- Casino security & marketing analytics platform
-- Multi-camera stream processing infrastructure
+- Production deployment: 99.9% uptime
+- Multi-camera stream processing: 30+ FPS
 
 **Baccarat Chip Counting System**
 - Automated chip detection & classification
-- Live tracking across multiple casino tables
-- GPU-optimized YOLO inference pipeline
-- Real-time analytics dashboard integration
+- Live tracking across multiple tables
+- GPU-optimized YOLO inference
+- Real-time analytics dashboard
 
 **Blackjack AI Vision System**
-- Technical supervision of YOLO-based card/chip detection
-- Real-time game state tracking architecture
-- Distributed inference system design
-- Team technical leadership & consultation
+- Technical supervision & consulting
+- YOLO-based card/chip detection
+- Real-time game state tracking
+- Distributed inference architecture
 
-**Infrastructure & Performance**
-- GPU Optimization: TensorRT deployment on Jetson Orin NX
-- Data Synchronization: Redis multi-server coordination
-- API Performance: Flask + WebSocket (100+ req/sec)
-- Production Operations: 24/7 uptime management
+**Infrastructure**
+- TensorRT deployment on Jetson Orin NX
+- Redis multi-server synchronization
+- Flask + WebSocket APIs: 100+ req/sec
+- PostgreSQL database optimization
 
 </td>
 <td width="50%">
 
-### AI & Automation Manager — Techserandib Pvt Ltd
-`December 2023 – Present`
+### AI & AUTOMATION MANAGER — Techserandib
+**Colombo, Sri Lanka** | Dec 2023 – Present
 
 **Enterprise AI Automation & Integration**
 
 **Facebook Message Automation**
-- n8n + OpenAI API integration pipeline
-- Custom server deployment (24/7 uptime)
-- Intelligent message handling workflows
-- 90% reduction in manual response times
+- n8n + OpenAI API integration
+- Custom server deployment (24/7)
+- Intelligent message handling
+- 90% reduction in manual responses
 
 **AI Voice Receptionist**
-- Real-time phone integration (Twilio infrastructure)
-- Deepgram STT + ElevenLabs TTS pipeline
+- Real-time phone integration (Twilio)
+- Deepgram STT + ElevenLabs TTS
 - Sub-second conversational latency
-- Advanced voice activity detection system
-- Barge-in handling & interruption management
+- Advanced voice activity detection
 
 **Web Development & Deployment**
-- Production website development (HTML/CSS/JavaScript)
-- Hostinger deployment & server management
-- Responsive UI/UX implementation
-- Full-stack integration architecture
+- Custom HTML/CSS/JavaScript websites
+- Hostinger production deployment
+- Responsive UI/UX design
+- Full-stack integration
 
 **AI Workflow Integration**
 - Automation pipeline orchestration
-- Web interface development & API connectivity
-- Backend system communication architecture
-- Seamless multi-service integration
+- Web interface development
+- Backend API integration
+- System communication protocols
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<br/>
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <br/>
 
-## <div align="center">TECHNICAL PROJECTS</div>
+</div>
+
+## <div align="center">CORE EXPERTISE</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**COMPUTER VISION**
+
+Face Recognition at Scale  
+YOLO Object Detection  
+Real-Time Video Analytics  
+Instance Segmentation  
+Multi-Camera Processing  
+
+</td>
+<td width="33%" align="center">
+
+**AI OPTIMIZATION**
+
+TensorRT GPU Acceleration  
+ONNX Model Optimization  
+Multi-GPU Distribution  
+Model Quantization  
+CUDA Kernel Optimization  
+
+</td>
+<td width="33%" align="center">
+
+**EDGE AI DEPLOYMENT**
+
+NVIDIA Jetson Orin NX  
+Raspberry Pi Integration  
+Real-Time Inference  
+Hardware Acceleration  
+Embedded System Design  
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+**BACKEND ARCHITECTURE**
+
+High-Performance APIs  
+WebSocket Communication  
+Redis Data Sync  
+Database Optimization  
+Distributed Systems  
+
+</td>
+<td width="33%" align="center">
+
+**AI AUTOMATION**
+
+n8n Workflow Design  
+OpenAI API Integration  
+LLM Fine-Tuning  
+Voice AI Systems  
+Generative AI Pipelines  
+
+</td>
+<td width="33%" align="center">
+
+**FULL-STACK DEVELOPMENT**
+
+React.js Applications  
+TypeScript Development  
+RESTful API Design  
+Database Architecture  
+DevOps & CI/CD  
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br/>
+
+</div>
+
+## <div align="center">FEATURED PROJECTS</div>
 
 <div align="center">
 
@@ -500,33 +517,26 @@ class AIVisionEngineer:
 **Casino-Scale Face Recognition System**
 
 ```yaml
-Architecture: Deep Learning Face Recognition
-Database: 250,000+ Identity Profiles
-Latency: <50ms Real-Time Inference
+Architecture: Deep Learning Recognition
+Database: 250,000+ Identities
+Latency: <50ms Real-Time
 Accuracy: 99.7% Recognition Rate
-Deployment: Multi-GPU Production Server
+Deployment: Multi-GPU Production
 ```
 
-**Technical Stack**
-- PyTorch + InsightFace (ArcFace Loss)
+**Technical Implementation**
+- PyTorch + InsightFace (ArcFace)
 - TensorRT GPU Optimization
 - Redis In-Memory Caching
 - PostgreSQL Database
 - Flask + WebSocket API
-- Multi-Camera Stream Processing
+- Multi-Camera Processing
 
-**System Capabilities**
-- Real-time player identification across multiple cameras
-- Casino security analytics & monitoring
-- Marketing insights & VIP player tracking
-- Access control system integration
-- Historical analysis & reporting dashboard
-
-**Performance Metrics**
-- 30+ FPS multi-stream processing
-- 100+ concurrent requests per second
-- 99.9% system uptime in production
-- Distributed inference architecture
+**System Performance**
+- 30+ FPS multi-stream
+- 100+ concurrent requests/sec
+- 99.9% system uptime
+- Distributed inference
 
 </td>
 <td width="50%">
@@ -535,33 +545,26 @@ Deployment: Multi-GPU Production Server
 **Multi-Table Vision Analytics**
 
 ```yaml
-Detection: YOLO-based Object Detection
+Detection: YOLO Object Detection
 Games: Baccarat & Blackjack
-Accuracy: 98.5% Chip Classification
-Speed: 30+ FPS Real-Time Tracking
-Deployment: Jetson Orin NX Edge AI
+Accuracy: 98.5% Classification
+Speed: 30+ FPS Real-Time
+Deployment: Jetson Orin NX
 ```
 
-**Technical Stack**
-- Ultralytics YOLOv8 Detection Framework
+**Technical Implementation**
+- Ultralytics YOLOv8 Detection
 - TensorRT INT8 Quantization
-- OpenCV Image Processing Pipeline
-- Redis Real-Time Synchronization
-- WebSocket Live Update Protocol
-- Custom Dataset Annotation Workflow
+- OpenCV Image Processing
+- Redis Real-Time Sync
+- WebSocket Live Updates
+- Custom Annotation Pipeline
 
-**System Capabilities**
-- Automated chip counting & tracking
-- Multi-denomination value classification
-- Real-time game analytics generation
-- Multi-table orchestration & management
-- Historical betting pattern analysis
-
-**Performance Metrics**
-- <30ms inference latency per frame
-- 8+ simultaneous table monitoring
-- 99.8% chip detection accuracy
-- Edge deployment optimization
+**System Performance**
+- <30ms inference latency
+- 8+ table monitoring
+- 99.8% detection accuracy
+- Edge optimization
 
 </td>
 </tr>
@@ -573,33 +576,26 @@ Deployment: Jetson Orin NX Edge AI
 **Card & Chip Recognition Platform**
 
 ```yaml
-Task: Card + Chip Detection & Tracking
+Task: Card + Chip Detection
 Model: Custom YOLO Fine-Tuned
 Dataset: 50,000+ Annotated Images
-Accuracy: 97.8% Card Recognition
-Role: Technical Supervisor & Consultant
+Accuracy: 97.8% Recognition
+Role: Technical Supervisor
 ```
 
-**Technical Stack**
+**Technical Implementation**
 - YOLOv8 Instance Segmentation
-- Custom Data Augmentation Pipeline
+- Custom Data Augmentation
 - CUDA-Accelerated Inference
-- Flask REST API Architecture
+- Flask REST API
 - Redis Message Queue
-- Real-Time WebSocket Streaming
-
-**System Capabilities**
-- 52-card deck recognition system
-- Chip tracking & counting automation
-- Game state reconstruction algorithm
-- Player action analysis & logging
-- Multi-player simultaneous tracking
+- WebSocket Streaming
 
 **Technical Leadership**
-- Architectural guidance on YOLO implementation
-- Annotation workflow design & optimization
-- Inference pipeline performance tuning
-- Distributed processing system design
+- YOLO architecture guidance
+- Annotation workflow design
+- Inference pipeline optimization
+- Distributed processing
 
 </td>
 <td width="50%">
@@ -608,33 +604,26 @@ Role: Technical Supervisor & Consultant
 **Real-Time Conversational AI**
 
 ```yaml
-Platform: FastAPI + Twilio Integration
-STT: Deepgram Real-Time Streaming
-TTS: ElevenLabs Voice Synthesis
-Latency: <500ms Response Time
+Platform: FastAPI + Twilio
+STT: Deepgram Real-Time
+TTS: ElevenLabs Synthesis
+Latency: <500ms Response
 Features: Barge-In & VAD
 ```
 
-**Technical Stack**
+**Technical Implementation**
 - FastAPI WebSocket Server
-- Twilio Programmable Voice API
-- Deepgram Speech-to-Text Streaming
-- ElevenLabs Text-to-Speech Engine
+- Twilio Programmable Voice
+- Deepgram Speech-to-Text
+- ElevenLabs Text-to-Speech
 - OpenAI GPT-4 Integration
 - Redis Session Management
 
-**System Capabilities**
-- Real-time phone call integration
-- Advanced voice activity detection (VAD)
-- Barge-in interruption handling
-- Natural conversation flow management
-- Call analytics & logging infrastructure
-
-**Performance Metrics**
+**System Performance**
 - <500ms end-to-end latency
-- Sub-second conversational response turns
-- 99% production uptime reliability
-- Scalable cloud-native architecture
+- Sub-second conversational turns
+- 99% uptime reliability
+- Scalable architecture
 
 </td>
 </tr>
@@ -642,72 +631,58 @@ Features: Barge-In & VAD
 <tr>
 <td width="50%">
 
-### ThreatCipher Automation Platform
+### ThreatCipher Automation
 **Security Threat Detection & Mitigation**
 
 ```yaml
-Purpose: Automated Security Workflows
-Detection: ML-Based Threat Analysis
+Purpose: Automated Security
+Detection: ML-Based Analysis
 Response: Real-Time Mitigation
-Integration: Enterprise Security Stack
-Deployment: Multi-Server Architecture
+Integration: Enterprise Stack
+Deployment: Multi-Server
 ```
 
-**Technical Stack**
-- Python Machine Learning Pipeline
-- FastAPI Microservices Architecture
+**Technical Implementation**
+- Python ML Pipeline
+- FastAPI Microservices
 - Redis Event Streaming
-- PostgreSQL Threat Database
+- PostgreSQL Database
 - Custom Rule Engine
-- Automated Response System
-
-**System Capabilities**
-- Real-time threat pattern detection
-- Automated mitigation workflow execution
-- Security analytics dashboard
-- Alert notification & escalation system
-- Historical threat intelligence database
+- Automated Response
 
 **Security Components**
 - Anomaly detection algorithms
-- Pattern recognition engine
-- Automated response playbook execution
-- SIEM system integration
+- Pattern recognition
+- Response playbooks
+- SIEM integration
 
 </td>
 <td width="50%">
 
-### AI Storybook Illustration Generator
+### AI Storybook Generator
 **Face-Guided Character Generation**
 
 ```yaml
-Model: Stable Diffusion + IP-Adapter
-Face Encoder: InsightFace Embeddings
-Pipeline: Diffusers + DDIM Scheduler
-Quality: High-Resolution VAE Decoding
-Control: Face-Guided Generation
+Model: Stable Diffusion XL
+Face Encoder: InsightFace
+Pipeline: Diffusers + DDIM
+Quality: High-Resolution VAE
+Control: Face-Guided
 ```
 
-**Technical Stack**
-- Stable Diffusion XL Base Model
-- IP-Adapter FaceID Integration
-- InsightFace Face Recognition & Embedding
-- Diffusers Pipeline Framework
-- DDIM Scheduler Optimization
-- VAE High-Quality Decoding
+**Technical Implementation**
+- Stable Diffusion XL
+- IP-Adapter FaceID
+- InsightFace Recognition
+- Diffusers Pipeline
+- DDIM Scheduler
+- VAE Decoding
 
-**System Capabilities**
-- Face-guided character consistency across images
-- Style-controlled image generation
-- Story-coherent illustration synthesis
-- Fast inference pipeline optimization
-- Precise face embedding control mechanism
-
-**Technical Innovation**
-- Face embedding integration with diffusion models
-- Custom IP-Adapter fine-tuning
-- Optimized generation pipeline architecture
-- High-quality image synthesis system
+**Innovation**
+- Face embeddings + diffusion
+- IP-Adapter integration
+- Optimized generation
+- High-quality synthesis
 
 </td>
 </tr>
@@ -716,81 +691,69 @@ Control: Face-Guided Generation
 <td width="50%">
 
 ### LLM Fine-Tuning & Deployment
-**Custom Language Model Infrastructure**
+**Custom Language Model**
 
 ```yaml
-Base Model: GPT-2 / LLaMA Architecture
-Training: Custom Dataset Fine-Tuning
-Deployment: Hugging Face Inference API
-Use Case: Commercial/API Integration
-Optimization: Quantization & Pruning
+Base Model: GPT-2 / LLaMA
+Training: Custom Dataset
+Deployment: Hugging Face API
+Use Case: Commercial Integration
+Optimization: Quantization
 ```
 
-**Technical Stack**
-- Hugging Face Transformers Library
+**Technical Implementation**
+- Hugging Face Transformers
 - PyTorch Training Pipeline
-- Custom Dataset Preparation & Cleaning
-- Model Quantization (8-bit Precision)
-- FastAPI Production Deployment
-- Redis Response Caching Layer
+- Dataset Preparation
+- Model Quantization (8-bit)
+- FastAPI Deployment
+- Redis Caching
 
-**System Capabilities**
-- Domain-specific model fine-tuning
-- Cloud-based API deployment
-- RESTful API integration endpoints
-- Optimized inference performance
-- Usage analytics & monitoring
-
-**Production Infrastructure**
-- Hugging Face Model Hub hosting
-- Serverless inference endpoints
-- Rate limiting & quota management
-- Production-grade monitoring & logging
+**Production Features**
+- Domain-specific tuning
+- Cloud API deployment
+- REST integration
+- Performance monitoring
 
 </td>
 <td width="50%">
 
 ### Facebook Message Automation
-**n8n + OpenAI Integration Pipeline**
+**n8n + OpenAI Integration**
 
 ```yaml
-Platform: n8n Workflow Automation
-AI: OpenAI GPT-4 API Integration
-Server: Custom Ubuntu Deployment
+Platform: n8n Automation
+AI: OpenAI GPT-4 API
+Server: Custom Ubuntu
 Uptime: 24/7 Operation
-Efficiency: 90% Response Reduction
+Efficiency: 90% Reduction
 ```
 
-**Technical Stack**
-- n8n Workflow Automation Engine
-- OpenAI GPT-4 API Integration
-- Facebook Graph API Connectivity
-- Custom Ubuntu Server Infrastructure
-- Redis Message Queue System
-- MySQL Database Storage
+**Technical Implementation**
+- n8n Workflow Engine
+- OpenAI GPT-4 API
+- Facebook Graph API
+- Custom Ubuntu Server
+- Redis Message Queue
+- MySQL Database
 
-**System Capabilities**
-- Intelligent message routing & classification
-- AI-powered contextual response generation
-- Automated conversation handling workflows
-- Analytics dashboard & reporting system
-- Alert notification & monitoring
-
-**Performance Metrics**
-- 24/7 autonomous operation capability
-- <2 second average response time
-- 90% reduction in manual intervention
-- 99.8% production uptime reliability
+**System Performance**
+- 24/7 autonomous operation
+- <2s response time
+- 90% manual work reduction
+- 99.8% uptime
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-</div>
-
 <br/>
+
+</div>
 
 ## <div align="center">PERFORMANCE METRICS</div>
 
@@ -800,7 +763,7 @@ Efficiency: 90% Response Reduction
 <tr>
 <td align="center" width="25%">
 
-**Face Recognition System**
+**FACE RECOGNITION**
 ```
 Identities: 250,000+
 Latency: <50ms
@@ -812,23 +775,23 @@ Uptime: 99.9%
 </td>
 <td align="center" width="25%">
 
-**API Performance**
+**API PERFORMANCE**
 ```
 Requests/Sec: 100+
-Response Time: 45ms
-Concurrent Users: 200+
-Protocol: WebSocket
+Avg Response: 45ms
+Concurrent: 200+
+WebSocket: Real-Time
 Availability: 24/7
 ```
 
 </td>
 <td align="center" width="25%">
 
-**Edge Deployment**
+**EDGE DEPLOYMENT**
 ```
 Platform: Jetson Orin
-Acceleration: TensorRT
-Performance: 5x Speedup
+GPU: TensorRT
+Speedup: 5x
 Power: 15W-60W
 Latency: <30ms
 ```
@@ -836,12 +799,12 @@ Latency: <30ms
 </td>
 <td align="center" width="25%">
 
-**Vision Systems**
+**VISION SYSTEMS**
 ```
-Concurrent Tables: 8+
-Frame Rate: 30+ FPS
+Tables: 8+ Concurrent
+FPS: 30+
 Accuracy: 98.5%
-Framework: YOLO
+Detection: YOLO
 Mode: Real-Time
 ```
 
@@ -849,203 +812,207 @@ Mode: Real-Time
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<br/>
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <br/>
 
-## <div align="center">TECHNICAL ACHIEVEMENTS</div>
+</div>
+
+## <div align="center">EDUCATION</div>
+
+<div align="center">
+
+**BSc (Hons) Computer Science with Artificial Intelligence**  
+Coventry University, United Kingdom | Completed 2025  
+**First-Class Honours (80%)**
+
+Key Modules: Machine Learning (83%) • Artificial Neural Networks (75.5%) • Intelligent Agents (79%)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br/>
+
+</div>
+
+## <div align="center">TECHNICAL FOCUS AREAS</div>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%">
 
-**Academic Excellence**
-
-```diff
-+ First-Class Honours (80%)
-+ BSc Computer Science with AI
-+ Coventry University, UK
-+ Machine Learning: 83%
-+ Individual AI Project: 82%
-```
-
-</td>
-<td align="center" width="33%">
-
-**Production Systems**
-
-```diff
-+ Live Casino AI Deployment
-+ 250K+ Identity Recognition
-+ 100+ Req/Sec Performance
-+ 99.9% System Uptime
-+ Multi-GPU Infrastructure
-```
-
-</td>
-<td align="center" width="33%">
-
-**Technical Innovation**
-
-```diff
-+ 90% Automation Efficiency
-+ 5x GPU Performance Gain
-+ Edge AI Production Deploy
-+ Enterprise System Architecture
-+ Research-to-Production Pipeline
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-<br/>
-
-## <div align="center">RESEARCH INTERESTS</div>
-
-<div align="center">
+**PRIMARY RESEARCH**
 
 ```python
-research_focus = {
+focus_areas = {
     "Computer Vision": [
-        "Large-Scale Face Recognition Systems",
-        "Real-Time Object Detection & Tracking",
-        "Multi-Camera Fusion & Synchronization",
-        "Video Analytics & Surveillance Systems"
+        "Large-Scale Face Recognition",
+        "Real-Time Object Detection",
+        "Instance Segmentation",
+        "Video Analytics",
+        "Multi-Camera Fusion"
     ],
     
     "Edge AI": [
-        "NVIDIA Jetson Platform Optimization",
-        "Model Quantization & Pruning Techniques",
-        "Hardware-Accelerated Inference Pipelines",
-        "Power-Efficient AI System Design"
+        "NVIDIA Jetson Optimization",
+        "Model Quantization",
+        "Hardware-Accelerated Inference",
+        "Power-Efficient AI",
+        "Embedded Vision Systems"
     ],
     
     "AI Optimization": [
-        "TensorRT GPU Acceleration Techniques",
-        "ONNX Model Conversion & Deployment",
-        "Multi-GPU Distributed Inference",
-        "CUDA Kernel Optimization Strategies"
-    ],
-    
-    "Production AI": [
-        "Real-Time System Architecture Design",
-        "High-Throughput API Development",
-        "Distributed Computing Infrastructure",
-        "MLOps & Production Deployment Pipelines"
+        "TensorRT GPU Acceleration",
+        "ONNX Model Conversion",
+        "Multi-GPU Distribution",
+        "CUDA Kernel Optimization",
+        "Low-Latency Inference"
     ]
 }
 ```
 
-**Technical Philosophy**
-
-Production-grade AI systems require more than model accuracy. Critical factors include low-latency inference (<50ms), high-throughput API design (100+ req/sec), distributed system resilience, hardware optimization for GPU and edge devices, and operational reliability with 99.9% uptime. Every architectural decision prioritizes performance, scalability, and production readiness.
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-<br/>
-
-## <div align="center">GITHUB STATISTICS</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anasakram&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anasakram&theme=transparent&hide_border=true&background=0d1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideLabels=ffffff&dates=ffffff" width="49%" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasakram&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=ffffff&langs_count=10" width="49%" alt="Top Languages"/>
-<img src="https://github-profile-trophy.vercel.app/?username=anasakram&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&title=Commits,Repositories,Stars,Followers" width="49%" alt="GitHub Trophies"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anasakram&custom_title=Contribution%20Activity&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&area_color=00F5FF&area=true&hide_border=true&theme=react-dark" width="100%" alt="Activity Graph"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-<br/>
-
-## <div align="center">PROFESSIONAL NETWORK</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<a href="https://linkedin.com/in/anasakram">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-**Professional Network**  
-Industry connections & opportunities
-
 </td>
-<td align="center" width="33%">
+<td width="50%">
 
-<a href="https://github.com/anasakram">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+**EMERGING TECHNOLOGIES**
 
-**Technical Portfolio**  
-Open source projects & contributions
-
-</td>
-<td align="center" width="33%">
-
-<a href="https://anasakram.com">
-<img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/>
-</a>
-
-**Professional Website**  
-Complete portfolio & case studies
+```python
+exploring = {
+    "Generative AI": [
+        "Stable Diffusion Fine-Tuning",
+        "ControlNet & IP-Adapter",
+        "Text-to-Image Generation",
+        "Face-Guided Synthesis",
+        "Custom Model Training"
+    ],
+    
+    "LLM Integration": [
+        "GPT-4 API Integration",
+        "Custom LLM Fine-Tuning",
+        "RAG Architectures",
+        "Voice AI (STT/TTS)",
+        "Conversational Systems"
+    ],
+    
+    "Production AI": [
+        "System Architecture",
+        "High-Throughput APIs",
+        "Distributed Computing",
+        "MLOps & Deployment",
+        "Performance Optimization"
+    ]
+}
+```
 
 </td>
 </tr>
 </table>
 
-**Collaboration Opportunities**
+<br/>
+
+**TECHNICAL PHILOSOPHY**
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**PERFORMANCE**
+
+Low-latency inference  
+High-throughput APIs  
+GPU acceleration  
+Edge optimization  
+
+</td>
+<td width="33%" align="center">
+
+**SCALABILITY**
+
+Distributed computing  
+Microservices design  
+Database optimization  
+System resilience  
+
+</td>
+<td width="33%" align="center">
+
+**PRODUCTION**
+
+Operational reliability  
+System monitoring  
+Continuous improvement  
+24/7 availability  
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br/>
+
+</div>
+
+## <div align="center">PROFESSIONAL OPPORTUNITIES</div>
+
+<div align="center">
 
 ```yaml
 Open For:
-  - Senior AI Engineer / Computer Vision Engineer Positions
-  - Technical Consulting: AI System Architecture & Implementation
-  - Research Collaboration: Computer Vision & Edge AI Projects
-  - Technical Mentorship: AI Engineering & Production Deployment
+  - Full-Time Positions: Senior AI Engineer / Computer Vision Engineer
+  - Consulting Projects: AI System Architecture & Implementation
+  - Research Collaboration: Computer Vision & Edge AI
+  - Technical Leadership: AI Engineering & Production Deployment
 
 Expertise:
   - Computer Vision Systems (Face Recognition, Object Detection)
   - Edge AI Deployment (NVIDIA Jetson, TensorRT Optimization)
   - Production AI Architecture (High-Performance APIs, Distributed Systems)
-  - AI Automation & Integration (LLM Deployment, Voice AI, Workflow Automation)
+  - AI Automation & Integration (LLM Deployment, Voice AI)
 
-Work Preferences:
-  - Remote (Global Opportunities)
+Location:
+  - Remote (Global)
   - On-Site (Colombo, Sri Lanka)
-  - Hybrid Work Arrangements
+  - Hybrid Opportunities
 ```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br/>
+
+</div>
+
+## <div align="center">CONTACT</div>
+
 <div align="center">
 
-**Production-Grade AI Systems Engineering**
+<a href="https://linkedin.com/in/anasakram">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/anasakram">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://anasakram.com">
+  <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/>
+</a>
+<a href="mailto:anasakram1245@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-> *"Architecting computer vision systems that operate at scale—processing millions of frames, handling thousands of concurrent requests, and delivering millisecond-precision inference in production environments. Every system design decision prioritizes performance, reliability, and operational excellence."*
+<br/><br/>
 
-**— Anas Akram, AI Vision Engineer**
+> **"Architecting production-grade AI systems that operate at scale with millisecond precision"**
+
+**— Anas Akram, Applied AI Engineer**
 
 <br/>
 
@@ -1053,8 +1020,6 @@ Work Preferences:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<sub>**Last Updated: January 2026 | Professional Technical Portfolio**</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=120&section=footer" width="100%"/>
 
 </div>
