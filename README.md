@@ -7,31 +7,29 @@
 
 <div align="center">
 
-<!-- PROFESSIONAL HEADER -->
-<div align="center" style="position: relative; width: 100%;">
+<!-- PROFESSIONAL HEADER WITH OVERLAY TEXT -->
 
-  <img src="assets/banner.png" alt="Banner" style="width:100%; height:300px; object-fit:cover; border-radius:12px;">
+<div style="position: relative; text-align: center; color: white;">
+
+  <img src="assets/banner.png" width="100%" alt="Header Banner" />
 
   <div style="
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
-    font-size: 48px;
-    font-weight: 700;
-    text-align: center;
-    text-shadow: 0px 0px 12px rgba(0,0,0,0.8);
-    white-space: nowrap;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0 0 15px rgba(0,0,0,0.8);
   ">
-    ANAS AKRAM <br/>
-    <span style="font-size:22px; font-weight:500;">
-      APPLIED AI ENGINEER & CV SPECIALIST
-    </span>
+
+    <h1 style="margin:0; font-size:64px;">ANAS AKRAM</h1>
+
+    <p style="margin:8px 0 0; font-size:22px; letter-spacing:2px;">
+      APPLIED AI ENGINEER & COMPUTER VISION SPECIALIST
+    </p>
+
   </div>
-
 </div>
-
 
 
 <br/>
