@@ -329,6 +329,33 @@ MODE: 24/7 Operations
 </tr>
 </table>
 
+### CLOUD / HOSTING
+<table>
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+<br>Azure
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="Google Colab" />
+<br>Colab
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=hostinger" width="48" height="48" alt="Hostinger" />
+<br>Hostinger
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Contabo" />
+<br>Contabo
+</td>
+
+</tr>
+</table>
+
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
