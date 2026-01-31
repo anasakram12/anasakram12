@@ -8,10 +8,30 @@
 <div align="center">
 
 <!-- PROFESSIONAL HEADER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=300&section=header&text=ANAS%20AKRAM&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=APPLIED%20AI%20ENGINEER%20%7C%20COMPUTER%20VISION%20SPECIALIST&descAlignY=54&descSize=22&descAlign=50">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=300&section=header&text=ANAS%20AKRAM&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=APPLIED%20AI%20ENGINEER%20%7C%20COMPUTER%20VISION%20SPECIALIST&descAlignY=54&descSize=22&descAlign=50" alt="Header" width="100%"/>
-</picture>
+<div align="center" style="position:relative; width:100%;">
+
+  <img src="assets/banner.png" width="100%" alt="Header"/>
+
+  <div style="
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    color:white;
+    text-align:center;
+    width:100%;
+    text-shadow:0 0 15px rgba(0,0,0,0.8);
+  ">
+
+    <h1 style="font-size:80px;margin:0;">ANAS AKRAM</h1>
+
+    <p style="font-size:20px;margin-top:10px;">
+      AI VISION ARCHITECT • COMPUTER VISION ENGINEER
+    </p>
+
+  </div>
+</div>
+
 
 <br/>
 
